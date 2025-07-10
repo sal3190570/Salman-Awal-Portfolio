@@ -9,7 +9,7 @@
   {
     "title": "Everest NFT Marketplace",
     "image": "/reference/everestnft.png",
-    "description": "Revamped a static single-page application into an engaging interface with interactive animations, transitions, and carousels, utilizing Axios for dynamic data display. Managed version control and team collaboration with Git. Check it out at https://remote-internship-starter.vercel.app",
+    "description": "Revamped a static single-page application into an engaging interface with interactive animations, transitions, and carousels, utilizing Axios for dynamic data display. Managed version control and team collaboration with Git. Check it out at https://everest-nft-marketplace.vercel.app",
     "date": "Jan 2024",
     "type": "Frontend Developer Internship"
   },
