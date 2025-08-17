@@ -3,7 +3,7 @@
     "name": "Salman",
     "title": "Salman Awal - Frontend Developer",
     "description": "Hey I'm Salman! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
-    "timeZone": "Australia/Melbourne",
+    "timeZone": "Australia/Canberra",
     "locale": "en-US"
   },
   "personal": {
@@ -12,8 +12,8 @@
     "role": "Frontend Developer",
     "email": "me@salmanawal.com",
     "phone": "+61477588043",
-    "city": "Melbourne",
-    "state": "VIC",
+    "city": "Canberra",
+    "state": "ACT",
     "country": "AUS",
     "resumeURL": "https://drive.google.com/file/d/1y0G2SwZr6rKogBy88ZGfyExpMIwcjBi0/view?usp=sharing"
   },
