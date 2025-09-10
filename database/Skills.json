@@ -92,7 +92,7 @@
   },
   {
     "icon": "IconReactNative",
-    "image": "/icon/icon-reactNative.svg",
+    "image": "/icon/icon-reactnative.svg",
     "title": "React Native",
     "subtitle": "Cross-platform Mobile Development",
     "description": "Using React Native, I build performant mobile apps for iOS and Android with a shared codebase while maintaining native functionality."
