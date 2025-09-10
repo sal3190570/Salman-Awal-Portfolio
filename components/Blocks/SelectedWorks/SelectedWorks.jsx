@@ -83,7 +83,6 @@ export default function SelectedWorks() {
     { scope: galleryContainer }
   );
 
-
   return (
     <section className={styles.section} id={"works"} ref={container}>
       <div className={styles.bg} ref={bg}>
@@ -101,27 +100,27 @@ export default function SelectedWorks() {
 
         {Works.map((work, index) => {
           return (
-              <div key={index} className={`${styles.browser}`}>
-                <div className={`${styles.browserHeader}`}>
-                  <h3 className={styles.type}>{work.type}</h3>
-                  <div className={styles.date}>{work.date}</div>
-                </div>
-                <div className={styles.browserBody}>
-                  <h3 className={styles.title}>{work.title}</h3>
-                  <Image
-                    src={work.image}
-                    alt={work.title}
-                    width={420}
-                    height={420}
-                    className={styles.image}
-                    loading={"lazy"}
-                  />
-                  <p className={styles.description}>{work.description}</p>
-                </div>
+            <div key={index} className={`${styles.browser}`}>
+              <div className={`${styles.browserHeader}`}>
+                <h3 className={styles.type}>{work.type}</h3>
+                <div className={styles.date}>{work.date}</div>
               </div>
+              <div className={styles.browserBody}>
+                <h3 className={styles.title}>{work.title}</h3>
+                <Image
+                  src={work.image}
+                  alt={work.title}
+                  width={420}
+                  height={420}
+                  className={styles.image}
+                  loading={"lazy"}
+                />
+                <p className={styles.description}>{work.description}</p>
+              </div>
+            </div>
           );
         })}
-        <div class={styles.backgroundGlow}></div>
+        <div className={styles.backgroundGlow}></div>
       </div>
     </section>
   );

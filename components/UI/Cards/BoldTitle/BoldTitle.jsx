@@ -63,8 +63,8 @@ export default function BoldTitle() {
     <section className={styles.section} id="#about">
       <Container className={styles.grid}>
         <TextReveal className={styles.paragraph}>
-          I currently work for Aurora Web Studio as a frontend developer, where
-          I tackle extremely difficult engineering problems every day. I
+          I currently work for Stride as a full stack developer,
+          where I tackle difficult engineering problems every day. I
           continuously work towards improving my knowledge and skills so I can
           contribute more to the business.
         </TextReveal>
@@ -72,14 +72,14 @@ export default function BoldTitle() {
           <span className={styles.boldTitleLeft} ref={boldTitleLeft}>
             Creative
           </span>
-          <span>Frontend</span>
+          <span>Full Stack</span>
           <span className={styles.boldTitleRight} ref={boldTitleRight}>
             Developer
           </span>
         </h2>
         <TextReveal className={`${styles.paragraph} ${styles.paragraphAlt}`}>
-        My mission is to continuously advance in web development, using my
-        growing expertise to drive societal progress through technology.
+          My mission is to continuously advance in web development, using my
+          growing expertise to drive societal progress through technology.
         </TextReveal>
 
         <Blobs type={"v3"} classVariable={styles.blob} />

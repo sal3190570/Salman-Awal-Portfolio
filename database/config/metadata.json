@@ -1,15 +1,15 @@
 {
   "metadata": {
     "name": "Salman",
-    "title": "Salman Awal - Frontend Developer",
-    "description": "Hey I'm Salman! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
+    "title": "Salman Awal - Full Stack Developer",
+    "description": "Hey I'm Salman! I'm a Full Stack Developer with a strong passion for building web applications with great user experiences.",
     "timeZone": "Australia/Canberra",
     "locale": "en-US"
   },
   "personal": {
     "name": "Salman",
     "surname": "Awal",
-    "role": "Frontend Developer",
+    "role": "Full Stack Developer",
     "email": "me@salmanawal.com",
     "phone": "+61477588043",
     "city": "Canberra",
