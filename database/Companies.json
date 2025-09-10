@@ -1,23 +1,35 @@
 [
   {
-    "position": "Frontend Developer",
-    "company": "Aurora Web Studio",
-    "duration": "Jan 2025 – Present",
+    "position": "Full Stack Software Engineer",
+    "company": "Stride",
+    "duration": "June 2025 – Present",
+    "location": "Canberra, AU",
     "responsibilities": [
-      "Developed an internal troubleshooting tool with React and Firebase, boosting the support team’s efficiency by over 40%.",
-      "Enhanced client’s customer conversion by 30% by redesigning the checkout flow, migrating the database to Firebase, and developing the frontend with Next.js and Typescript.",
-      "Partnered with the COO to streamline client communication processes, resulting in a 30% reduction in client meetings and a 70% increase in team productivity by implementing efficient workflow solutions.",
-      "Developed a custom React hook to debounce search inputs, significantly reducing unnecessary RESTful API requests by 66%, leading to improved performance and efficiency on client SaaS platforms."
+      "Drove development of a mobile application for an Australian-Owned electric vehicle startup, providing sustainable transport solutions across Australian Cities.",
+      "Delivered Figma and wireframes to React Native UI, boosting onboarding completion to 74%—matching industry averages.",
+      "Architected and developed backend infrastructure and APIs using Python and FastAPI; integrated Stripe payment processing, achieving a 98% transaction success rate.",
+      "Collaborated in a 10–15 member Agile team, driving quality through code reviews and daily stand-ups."
+    ]
+  },
+  {
+    "position": "Frontend Developer Intern",
+    "company": "Aurora Web Studio",
+    "duration": "Jan 2025 – June 2025",
+    "location": "Canberra, AU",
+    "responsibilities": [
+      "Built an internal troubleshooting tool (React, Firebase), boosting support team efficiency by 40%.",
+      "Redesigned checkout and migrated database to Firebase, increasing client conversion by 30%.",
+      "Developed a custom debounced search hook, cutting RESTful API requests by 66% and improving SaaS platform performance."
     ]
   },
   {
     "position": "Freelance Frontend Developer",
     "company": "Self Employed",
     "duration": "July 2024 – Dec 2024",
+    "location": "Canberra, AU",
     "responsibilities": [
-      "Delivered 5 professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript, and React best practices, enhancing client satisfaction by adhering to industry standards.",
-      "Improved website performance by optimising code, implementing caching, and lazy loading images and components, reducing load times by an average of 32%.",
-      "Enhanced websites with SEO, responsive design, multi-platform, and hosting support, ensuring accessibility across all browsers and devices, increasing traffic by an average of 25%."
+      "Delivered 5 responsive, SEO-optimized websites using React and JavaScript, boosting client traffic by 25%.",
+      "Enhanced site performance and accessibility by optimizing assets and adopting modern frontend techniques."
     ]
   }
 ]
