@@ -2,21 +2,21 @@
   {
     "title": "Hollywood AI",
     "image": "/reference/hollywoodai.png",
-    "description": "Developed and deployed a user-friendly platform for AI-powered film summaries, achieving a 95% satisfaction rate based on feedback on accuracy and readability, using Next.js. TypeScript, Firebase. Check it out at https://hollywoodai.vercel.app",
+    "description": "Created and launched an intuitive platform for AI-driven film summaries using Next.js, TypeScript, and Firebase, resulting in a 95% satisfaction rate for accuracy and readability based on user feedback. Check it out at https://hollywood-ai-azure.vercel.app",
     "date": "Feb 2024",
     "type": "Personal Project"
   },
   {
     "title": "Everest NFT Marketplace",
     "image": "/reference/everestnft.png",
-    "description": "Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilising Axios for dynamic data representation. Employed Git for version control and collaboration. Check it out at https://remote-internship-finished.vercel.app",
+    "description": "Revamped a static single-page application into an engaging interface with interactive animations, transitions, and carousels, utilizing Axios for dynamic data display. Managed version control and team collaboration with Git. Check it out at https://everest-nft-marketplace.vercel.app",
     "date": "Jan 2024",
     "type": "Frontend Developer Internship"
   },
   {
     "title": "Social Media App",
     "image": "/reference/socialmediaapp.png",
-    "description": "Developed a full-stack social media app with features like posts, post feeds, likes, modals, and authentication, using Firebase for database management. Check it out at https://social-media-app-pink.vercel.app",
+    "description": "Built a full-stack social media application featuring posts, feeds, likes, modals, and secure authentication, leveraging Firebase for database management. Check it out at https://busy-bee-social-media-app.vercel.app",
     "date": "Dec 2023",
     "type": "Personal Project"
   }
