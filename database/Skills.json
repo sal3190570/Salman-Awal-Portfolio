@@ -68,5 +68,33 @@
     "title": "Development Env.",
     "subtitle": "Webpack",
     "description": "I use tools like Webpack, Vite, NPM, Yarn to streamline workflows, automating development for efficiency."
+  },
+  {
+    "icon": "IconPython",
+    "image": "/icon/icon-python.svg",
+    "title": "Python",
+    "subtitle": "Backend Development, Scripting",
+    "description": "I use Python for building server-side applications, data processing, automation scripts, and integrating APIs with clean, efficient code."
+  },
+  {
+    "icon": "IconFastAPI",
+    "image": "/icon/icon-fastapi.svg",
+    "title": "FastAPI",
+    "subtitle": "High-performance Backend Framework",
+    "description": "FastAPI enables me to build modern, fast, and secure APIs with automatic validation, async support, and great developer experience."
+  },
+  {
+    "icon": "IconFigma",
+    "image": "/icon/icon-figma.svg",
+    "title": "Figma",
+    "subtitle": "UI/UX Design Tool",
+    "description": "I design and prototype user interfaces in Figma, translating ideas into interactive wireframes that bridge design and development."
+  },
+  {
+    "icon": "IconReactNative",
+    "image": "/icon/icon-reactnative.svg",
+    "title": "React Native",
+    "subtitle": "Cross-platform Mobile Development",
+    "description": "Using React Native, I build performant mobile apps for iOS and Android with a shared codebase while maintaining native functionality."
   }
 ]
