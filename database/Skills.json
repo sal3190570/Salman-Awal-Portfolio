@@ -62,13 +62,7 @@
     "subtitle": "Database Management, Authentication",
     "description": "Platform developed by Google for creating mobile and web applications."
   },
-  {
-    "icon": "IconWebpack",
-    "image": "/icon/icon-webpack.svg",
-    "title": "Development Env.",
-    "subtitle": "Webpack",
-    "description": "I use tools like Webpack, Vite, NPM, Yarn to streamline workflows, automating development for efficiency."
-  },
+
   {
     "icon": "IconPython",
     "image": "/icon/icon-python.svg",
@@ -82,13 +76,6 @@
     "title": "FastAPI",
     "subtitle": "High-performance Backend Framework",
     "description": "FastAPI enables me to build modern, fast, and secure APIs with automatic validation, async support, and great developer experience."
-  },
-  {
-    "icon": "IconFigma",
-    "image": "/icon/icon-figma.svg",
-    "title": "Figma",
-    "subtitle": "UI/UX Design Tool",
-    "description": "I design and prototype user interfaces in Figma, translating ideas into interactive wireframes that bridge design and development."
   },
   {
     "icon": "IconReactNative",
