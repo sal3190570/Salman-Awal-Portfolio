@@ -6,8 +6,8 @@
     "location": "Canberra, AU",
     "responsibilities": [
       "Drove development of a mobile application for an Australian-Owned electric vehicle startup, providing sustainable transport solutions across Australian Cities.",
-      "Delivered Figma and wireframes to React Native UI, boosting onboarding completion to 74%—matching industry averages.",
       "Architected and developed backend infrastructure and APIs using Python and FastAPI; integrated Stripe payment processing, achieving a 98% transaction success rate.",
+      "Converted 10+ Figma designs and wireframes into responsive React Native UIs, improving development speed by 25% through reusable components.",
       "Collaborated in a 10–15 member Agile team, driving quality through code reviews and daily stand-ups."
     ]
   },
